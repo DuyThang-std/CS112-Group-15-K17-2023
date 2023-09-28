@@ -1,2 +1,2 @@
 Folder này sẽ bàn về cách thiết kế thuật toán song song để xử lý bài toán Merge Sort
-bằng ngôn ngữ Python theo 2 thư viện khác nhau trong Python
+bằng ngôn ngữ Python theo 2 thư viện khác nhau.
