@@ -1,2 +1,1 @@
-# Completed-Search_Brute-Force
-Phương pháp thiết kế thuật toán: Completed search - Brute force
+# Thảo luận và các chương trình liên quan trong môn CS112
